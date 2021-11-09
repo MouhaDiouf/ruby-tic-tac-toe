@@ -28,7 +28,7 @@ The user can:
 
 ## Developed by
 
-Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>) Michael Damulak (<a href="https://github.com/em-em-D"> @emmd </a>)
+Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
 
 Let's connect on:
 
