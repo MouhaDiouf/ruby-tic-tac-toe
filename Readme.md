@@ -8,7 +8,11 @@
 
 ## How To Play The Game
 
-The game is developed with ruby. Just crack open your terminal and run the command: ruby index.rb
+The game is developed with ruby. Just crack open your terminal and run the command:
+
+<pre>
+    <code>ruby index.rb</code>
+</pre>
 
 ## Functionalities
 
