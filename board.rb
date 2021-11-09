@@ -51,6 +51,9 @@ class Board
                   print  el == 'X' ? " #{el.to_s.yellow} |"  : " #{el.to_s.green} |" 
               end 
           end 
+          puts ' '
+          puts '---+---+---'
+
       end
       2.times {puts  '  '}
     end 
